@@ -1,0 +1,55 @@
+.pokemon{
+    position: absolute;
+    width: 20vw;
+    height: 70vh;
+    left: 40vw;
+    top: 16vh;
+}
+.anterior{
+    position: absolute;
+    width: 5vw;
+    height: 4vh;
+    left: 43vw;
+    top: 70vh;
+}
+.siguiente{
+    position: absolute;
+    width: 5vw;
+    height: 4vh;
+    left: 50vw;
+    top: 70vh;
+}
+#pokemonImage{
+    position: absolute;
+    width: 10vw;
+    height: 20vh;
+    left: 44vw;
+    top: 33vh;
+}
+#pokemonName{
+    position: absolute;
+    left: 47vw;
+    top: 53vh;
+    font-size: 1vw;
+    color: black;
+    text-align: center;
+}
+#searchInput{
+    position: absolute;
+    width: 10vw;
+    height: 3vh;
+    left: 44vw;
+    top: 63vh;
+    font-size: 0.6vw;
+    color: black;
+    text-align: center;
+}
+.cuadroazul{
+    position: absolute;
+    width: 400vw;
+    height: 430vh;
+    left: 0vw;
+    top: 0vh;
+    background-color: #0024f193;
+    border-radius: 10px;
+}
