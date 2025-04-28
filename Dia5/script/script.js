@@ -47,7 +47,7 @@
     }
   }
 
-  // Función para convertir el valor de la carta a número
+  // Función para convertir el valor de la carta a número rrrrrrrr/
   function convertirValor(valor) {
     const mapaValores = {
       "ACE": 14, "KING": 13, "QUEEN": 12, "JACK": 11,
