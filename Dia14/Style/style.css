@@ -1,0 +1,167 @@
+.recuadroPrincipal{
+    position: absolute;
+    width: 64vw;
+    height: 80vh;
+    border: 0.18vw solid rgb(230, 221, 221);
+    top: 12vh;
+    left: 18vw;
+    background-color: white;
+    border-radius: 0.5vw;
+}
+.barraSuperior{
+    width: 64vw;
+    height: 5vh;
+    border: 0.12vw solid rgb(230, 221, 221);
+    background-color:  rgb(240, 240, 240);;
+    font-size: 1vw;
+    
+}
+.heroes{
+    position: absolute;
+    left: 1vw;
+}
+.gestion{
+    position: absolute;
+    font-size: 1.4vw;
+    top: 5vh;
+    left: 0.9vw;
+}
+#nombre{
+    position: absolute;
+    width: 20vw;
+    height: 2.9vh;
+    top: 16vh;
+    left: 1vw;
+    border: 0.12vw solid rgb(230, 221, 221);
+    border-radius: 0.3vw;
+}
+#nombrePersonaje{
+    position: absolute;
+    top: 13vh;
+    left: 1vw;
+    font-size: 1vw;
+}
+#edad{
+    position: absolute;
+    width: 20vw;
+    height: 2.9vh;
+    top: 26vh;
+    left: 1vw;
+    border: 0.12vw solid rgb(230, 221, 221);
+    border-radius: 0.3vw;
+}
+#edadActor{
+    position: absolute;
+    top: 23vh;
+    left: 1vw;
+    font-size: 1vw;
+}
+#poster1{
+    position: absolute;
+    width: 20vw;
+    height: 2.9vh;
+    top: 36vh;
+    left: 1vw;
+    border: 0.12vw solid rgb(230, 221, 221);
+    border-radius: 0.3vw;
+}
+#poster{
+    position: absolute;
+    top: 33vh;
+    left: 1vw;
+    font-size: 1vw;
+}
+#productora1{
+    position: absolute;
+    width: 60vw;
+    height: 2.9vh;
+    top: 46vh;
+    left: 1vw;
+    border: 0.12vw solid rgb(230, 221, 221);
+    border-radius: 0.3vw;
+}
+#productora{
+    position: absolute;
+    top: 43vh;
+    left: 1vw;
+    font-size: 1vw;
+}
+#nombreActor1{
+    position: absolute;
+    width: 31vw;
+    height: 2.9vh;
+    top: 16vh;
+    left: 30vw;
+    border: 0.12vw solid rgb(230, 221, 221);
+    border-radius: 0.3vw;
+}
+#nombreActor{
+    position: absolute;
+    top: 13vh;
+    left: 30vw;
+    font-size: 1vw;
+}
+#ubicacion1{
+    position: absolute;
+    width: 31vw;
+    height: 2.9vh;
+    top: 26vh;
+    left: 30vw;
+    border: 0.12vw solid rgb(230, 221, 221);
+    border-radius: 0.3vw;
+}
+#ubicacion{
+    position: absolute;
+    top: 23vh;
+    left: 30vw;
+    font-size: 1vw;
+}
+#fecha1{
+    position: absolute;
+    width: 31vw;
+    height: 2.9vh;
+    top: 36vh;
+    left: 30vw;
+    border: 0.12vw solid rgb(230, 221, 221);
+    border-radius: 0.3vw;
+}
+#fecha{
+    position: absolute;
+    top: 33vh;
+    left: 30vw;
+    font-size: 1vw;
+}
+#nuevo{
+    position: absolute;
+    background-color: black;
+    color: white;
+    width: 5vw;
+    height: 3vh;
+    border-radius:0.4vw;
+    top: 76vh;
+    left: 1vw;
+    border: 0vw;
+
+}
+#guardar{
+    position: absolute;
+    background-color: rgb(0, 55, 255);
+    color: white;
+    width: v5vw;
+    height: 3vh;
+    border-radius:0.4vw;
+    top: 76vh;
+    left: 6.2vw;
+    border: 0vw;
+}
+#cancelar{
+    position: absolute;
+    background-color: rgb(254, 9, 9);
+    color: white;
+    width: 4vw;
+    height: 3vh;
+    border-radius:0.4vw;
+    top: 76vh;
+    left: 11.8vw;
+    border: 0vw;
+}
