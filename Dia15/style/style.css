@@ -1,0 +1,49 @@
+.barraSuperior{
+    position: absolute;
+    width: 250vw;
+    height: 9vh;
+    background-color: rgb(3, 234, 3);
+    top: 0vh;
+    left: 0vw;
+    
+}
+.buscar{
+    position: absolute;
+    width: 20vw;
+    height: 5vh;
+    color: white;
+    top: 1vh;
+    left: 40vw;
+}
+.buscar:hover{
+    background-color: rgb(3, 234, 3);
+    color: black;
+}
+.filtrar{
+    position: absolute;
+    width: 20vw;
+    height: 5vh;
+    color: white;
+    top: 1vh;
+    left: 60vw;
+}
+.filtrar:hover{
+    background-color: rgb(3, 234, 3);
+    color: black;
+}
+.titulo{
+    position: absolute;
+    width: 70vw;
+    height: 5vh;
+    color: white;
+    top: -1vh;
+    left: 5vw;
+  
+}
+#informacion{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    flex-basis: calc(20%-10px);
+}
